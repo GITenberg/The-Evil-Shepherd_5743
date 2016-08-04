@@ -1,0 +1,33 @@
+_repo: The-Evil-Shepherd_5743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oppenheim, E. Phillips (Edward Phillips)
+    aliases:
+    - Partridge, Anthony
+    - Oppenheim, Edward Phillips
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '594'
+    url: http://www.gutenberg.org/2009/agents/594
+    wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
+description: Francis Ledsam, alert, well-satisfied with himself and the world, the
+  echo of a little buzz of congratulations still in his ears, paused on the steps
+  of the modern Temple of Justice to light a cigarette before calling for a taxi to
+  take him to his club. Visions of a whisky and soda, his throat was a little parched
+  and a rubber of easy-going bridge at his favourite table, were already before his
+  eyes.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- GITenberg
+title: The Evil Shepherd
+url: http://www.gutenberg.org/ebooks/5743
