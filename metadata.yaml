@@ -1,5 +1,8 @@
 _repo: The-Evil-Shepherd_5743
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -17,6 +20,8 @@ description: Francis Ledsam, alert, well-satisfied with himself and the world, t
   take him to his club. Visions of a whisky and soda, his throat was a little parched
   and a rubber of easy-going bridge at his favourite table, were already before his
   eyes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5743#The-Evil-Shepherd
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
